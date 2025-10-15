@@ -1,0 +1,12 @@
+pdfplumber
+python-docx
+spacy
+flashtext
+sentence-transformers
+scikit-learn
+openai
+gradio
+sqlalchemy
+python-multipart
+pandas
+numpy
