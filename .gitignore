@@ -1,0 +1,44 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtualenv / venv
+venv/
+env/
+.venv/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# DBs and data
+*.db
+resume_matches.db
+*.sqlite3
+
+# Secrets / env
+.env
+*.key
+*.pem
+secrets.json
+config/*.json
+
+# Logs
+*.log
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Git LFS placeholder
+# If you use large files, add specifics here
