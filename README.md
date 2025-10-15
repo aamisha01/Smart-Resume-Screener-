@@ -1,2 +1,2 @@
-# Smart-Resume-Screener-
-Smart Resume Scanner — Colab + Python tool that parses PDF/DOCX/TXT resumes, computes semantic match scores against job descriptions, and produces a justified shortlist.
+# Smart-Resume-Screener
+Smart Resume Scanner is a Colab + Python project that ingests resumes (PDF/DOCX/TXT) and a job description, extracts structured information (name, contact, education, experience, canonicalized skills), computes a semantic match score (0–10) using sentence-transformer embeddings, and produces human-readable justifications and a shortlist. An optional OpenAI LLM step can generate a natural-language justification if you provide an API key.
